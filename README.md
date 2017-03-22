@@ -1,5 +1,5 @@
 # Node-Electron
-Electron App using JavaScript, HTML and CSS
+Electron Desktop App using JavaScript, HTML and CSS
 
 
 # NOTES :
